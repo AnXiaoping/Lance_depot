@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lance's test</title>
+  <%= stylesheet_link_tag :depot %>
+  <%= csrf_meta_tags %>
+</head>
+<body id="store">
+  <div id="banner">
+    <%= image_tag("logo.png") %>
+    <%= @page_title || "Lance's test"%>
+  </div>
+  <div id="columns">
+    <div id="side">
+      <a href="localhost:3000">Home</a><br>
+      <a href="localhost:3000">Home</a><br>
+      <a href="localhost:3000">Home</a><br>
+    </div>
+  </div>
+  <div id="main">
+    <%= yield%>
+  </div>
+
+</body>
+</html>

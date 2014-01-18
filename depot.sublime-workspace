@@ -1,0 +1,1666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"im",
+				"image_url"
+			],
+			[
+				"uni",
+				"unique_cs"
+			],
+			[
+				"ke",
+				"keywords"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"user",
+				"user_logistic"
+			],
+			[
+				"user_lo",
+				"user_logistics"
+			],
+			[
+				"phone",
+				"phone"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"use",
+				"user_logistic"
+			],
+			[
+				"address",
+				"addressTag"
+			],
+			[
+				"save_",
+				"save_logistic"
+			],
+			[
+				"get",
+				"get_posts"
+			],
+			[
+				"acti",
+				"action"
+			],
+			[
+				"comments",
+				"comments_arr"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"cu",
+				"currentPage"
+			],
+			[
+				"p",
+				"provider"
+			],
+			[
+				"comment",
+				"comment_type"
+			],
+			[
+				"is",
+				"is_reply"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"post",
+				"post_url"
+			],
+			[
+				"com",
+				"commentText"
+			],
+			[
+				"topic",
+				"topic_id"
+			],
+			[
+				"repost",
+				"repost_id"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"jon",
+				"joins"
+			],
+			[
+				"like",
+				"likes_count"
+			],
+			[
+				"produc",
+				"product_hash"
+			],
+			[
+				"product",
+				"product_media"
+			],
+			[
+				"media",
+				"media_type"
+			],
+			[
+				"new",
+				"new_media"
+			],
+			[
+				"medi",
+				"media_id"
+			],
+			[
+				"me",
+				"media_type"
+			],
+			[
+				"coupon",
+				"coupon_code"
+			],
+			[
+				"coupo",
+				"coupon_id"
+			],
+			[
+				"cou",
+				"coupon_id"
+			],
+			[
+				"prud",
+				"product_medias"
+			],
+			[
+				"Product",
+				"ProductMedia"
+			],
+			[
+				"modal",
+				"modal_image"
+			],
+			[
+				"pr",
+				"product_media"
+			],
+			[
+				"repos",
+				"repost_limit"
+			],
+			[
+				"index",
+				"index_image"
+			],
+			[
+				"all",
+				"allow_coupon_redeem"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"tag",
+				"tag_id"
+			],
+			[
+				"sele",
+				"select_tag"
+			],
+			[
+				"select",
+				"select_all"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"respon",
+				"respond_to"
+			],
+			[
+				"sel",
+				"selected_tag"
+			],
+			[
+				"import",
+				"import_file"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"soap",
+				"soap_client"
+			],
+			[
+				"backup",
+				"backup_likelihood"
+			],
+			[
+				"pri",
+				"prior_bak"
+			],
+			[
+				"sav",
+				"save_prior"
+			],
+			[
+				"redi",
+				"redis_likelihood"
+			],
+			[
+				"local",
+				"local_likelihood"
+			],
+			[
+				"red",
+				"redis_port"
+			],
+			[
+				"sho",
+				"show_table"
+			],
+			[
+				"ta",
+				"tag_id"
+			],
+			[
+				"fr",
+				"freq1"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"parm",
+				"params"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"alerts",
+				"alerts_by_level"
+			],
+			[
+				"alert",
+				"alert_rules"
+			],
+			[
+				"le",
+				"levels"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"aler",
+				"alert_details"
+			],
+			[
+				"per",
+				"periods"
+			],
+			[
+				"Alert",
+				"AlertRule"
+			],
+			[
+				"site",
+				"site_name"
+			],
+			[
+				"chi",
+				"children_json"
+			],
+			[
+				"roo",
+				"root_children"
+			],
+			[
+				"root",
+				"root_div"
+			],
+			[
+				"add_",
+				"add_condition"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"this",
+				"_this"
+			],
+			[
+				"scope",
+				"scope_type"
+			],
+			[
+				"add_su",
+				"add_sub_condition_button"
+			],
+			[
+				"sites",
+				"sites_type"
+			],
+			[
+				"selet",
+				"select_key"
+			],
+			[
+				"module",
+				"module_type"
+			],
+			[
+				"rule",
+				"rule_id"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"lef",
+				"left_condition"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"siteid",
+				"site_ids"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"activ",
+				"active_i"
+			],
+			[
+				"channe",
+				"channel_ids"
+			],
+			[
+				"site_ids",
+				"site_ids_in"
+			],
+			[
+				"chann",
+				"channel_status"
+			],
+			[
+				"Produ",
+				"ProductCoupon"
+			],
+			[
+				"my",
+				"my_read"
+			],
+			[
+				"gra",
+				"grasp_at"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/products_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1878,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/product.rb",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/models/product_test.rb",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/store_controller.rb",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<% if notice %>\n  <p id=\"notice\"><%= notice %></p>\n<% end %>\n<h1>Your progamtic Catalog</h1>\n<% @products.each do |product| %>\n  <div class=\"entry\">\n    <%= image_tag(product.image_url)%>\n    <h3><%= product.title%></h3>\n    <%= sanitize(product.description)%>\n    <div class=\"price_line\">\n      <span class=\"price\"><%= number_to_currencyproduct.price%></span>\n    </div>\n  </div>\n<% end %>\n<p>Find me in app/views/store/index.html.erb</p>\n",
+			"file": "app/views/store/index.html.erb",
+			"file_size": 422,
+			"file_write_time": 130340050752323390,
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/depot.css",
+			"settings":
+			{
+				"buffer_size": 2208,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"syru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/Wildfire/depot/app/views/products/index.html.erb",
+		"/H/Wildfire/depot/app/views/layouts/application.html.erb",
+		"/H/Wildfire/depot/app/views/products/_form.html.erb",
+		"/H/Wildfire/depot/db/migrate/20131225160620_create_products.rb",
+		"/H/Wildfire/depot/test/controllers/products_controller_test.rb",
+		"/H/Wildfire/depot/test/fixtures/products.yml",
+		"/H/Wildfire/depot/app/views/products/index.json.jbuilder",
+		"/H/Wildfire/depot/app/views/products/show.html.erb",
+		"/H/Wildfire/depot/app/views/products/show.json.jbuilder",
+		"/H/Wildfire/depot/public/stylesheets/depot.css",
+		"/H/Wildfire/depot/app/assets/stylesheets/depot.css",
+		"/H/Wildfire/depot/app/assets/stylesheets/application.css",
+		"/H/Wildfire/MyTest/app/controllers/application_controller.rb",
+		"/H/Wildfire/api.actsocial.com/db/migrate/20131202034440_add_version_index_to_dashboard_thread_analytic.rb",
+		"/H/Wildfire/iap/Gemfile",
+		"/H/Wildfire/iap/config/database.yml",
+		"/H/Wildfire/wildfire/lib/tasks/snapshot.rake",
+		"/H/Wildfire/wildfire/app/controllers/watches_controller.rb",
+		"/H/Wildfire/wildfire/app/views/channels/add_keywords.html.erb",
+		"/H/Wildfire/wildfire/app/models/analyzers/bbstaobao.rb",
+		"/H/Wildfire/wildfire/app/models/analyzers/taobao_search.rb",
+		"/C/Users/Administrator/Desktop/HelloWorld.html",
+		"/H/Wildfire/wildfire/app/models/analyzer.rb",
+		"/H/Wildfire/wildfire/app/views/channels/index.html.haml",
+		"/H/Wildfire/wildfire/public/stylesheets/application.css",
+		"/H/FindJob/MyResume/自荐信.txt",
+		"/H/Wildfire/wildfire/public/stylesheets/all.css",
+		"/H/Wildfire/wildfire/app/assets/stylesheets/sites.css.scss",
+		"/H/Xiao_22/model.txt",
+		"/H/Wildfire/MyTest/app/views/say/goodbye.html.erb",
+		"/H/Wildfire/MyTest/app/views/layouts/application.html.erb",
+		"/H/Wildfire/MyTest/config/database.yml",
+		"/H/Wildfire/MyTest/config/application.rb",
+		"/H/Wildfire/iap/app/assets/templates/mission-admin.html",
+		"/H/Wildfire/iap/app/assets/templates/points-list.html",
+		"/H/Wildfire/iap/app/assets/templates/redeem-modal.html",
+		"/H/Wildfire/iap/app/controllers/products_controller.rb",
+		"/H/Wildfire/iap/app/assets/templates/product-modal.html",
+		"/H/Wildfire/iap/app/controllers/users_controller.rb",
+		"/H/Wildfire/iap/app/models/weibo_adaptor.rb",
+		"/H/Wildfire/iap/app/assets/stylesheets/product-modal.css",
+		"/H/Wildfire/iap/app/assets/templates/topic-list.html",
+		"/H/Wildfire/iap/app/models/interface.rb",
+		"/H/Wildfire/iap/app/controllers/interface_controller.rb",
+		"/H/Wildfire/iap/app/models/published_post.rb",
+		"/H/Wildfire/iap/db/migrate/20131021015525_create_user_logistics.rb",
+		"/H/Wildfire/iap/app/models/user.rb",
+		"/H/Wildfire/iap/app/models/user_logistic.rb",
+		"/H/Wildfire/iap/config/application.yml",
+		"/H/Wildfire/iap/app/models/comment.rb",
+		"/H/Wildfire/iap/app/models/conversation.rb",
+		"/H/Wildfire/iap/app/assets/templates/posts-modal.html",
+		"/H/Wildfire/iap/app/assets/javascripts/controller.js",
+		"/H/Wildfire/sql.text",
+		"/H/Wildfire/iap/db/migrate/20131021014525_create_user_logistics.rb",
+		"/H/Wildfire/iap/db/migrate/20130815081013_create_user_infos.rb",
+		"/H/Wildfire/iap/db/migrate/20130815045155_create_redemptions.rb",
+		"/H/Wildfire/iap/app/controllers/conversation_controller.rb",
+		"/H/Wildfire/iap/app/controllers/invitations_controller.rb",
+		"/H/Wildfire/iap/config/application.rb",
+		"/H/Wildfire/iap/lib/tasks/import_weibo_data.rake",
+		"/G/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/weibo_2-0.1.1/lib/weibo_2.rb",
+		"/G/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/weibo_2-0.1.4/lib/weibo_2/api/v2/comments.rb",
+		"/H/Wildfire/iap/config/routes.rb",
+		"/G/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/dalli-2.6.4/lib/dalli/client.rb",
+		"/H/Wildfire/iap/config/initializers/memcache.rb",
+		"/H/Wildfire/iap/app/models/product.rb",
+		"/G/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/dalli-2.6.4/lib/dalli.rb",
+		"/H/Wildfire/iap/db/migrate/20130104015549_add_large_profile_image_url_to_authorization.rb",
+		"/H/Wildfire/iap/app/views/index/index.html.erb",
+		"/H/Wildfire/iap/app/assets/templates/profile.html",
+		"/H/Wildfire/iap/app/assets/javascripts/sns.js",
+		"/H/Wildfire/iap/lib/sns_utility.rb",
+		"/H/Wildfire/iap/app/assets/templates/banner-admin.html",
+		"/H/Wildfire/iap/app/models/repost.rb",
+		"/H/Wildfire/iap/app/models/products_reviews.rb",
+		"/H/Wildfire/iap/app/models/authorization.rb",
+		"/H/Wildfire/iap/db/migrate/20131016013915_add_column_to_comment.rb",
+		"/H/Wildfire/iap/app/assets/templates/about.html",
+		"/H/Wildfire/iap/app/assets/templates/user-panel.html",
+		"/H/Wildfire/iap/app/models/like.rb",
+		"/H/Wildfire/iap/app/models/replied_topic.rb",
+		"/H/Wildfire/iap/app/models/share.rb",
+		"/H/Wildfire/iap/db/migrate/20131015024620_create_user_like_maps.rb",
+		"/H/Wildfire/iap/db/migrate/20131015025843_create_comment_topic_maps.rb",
+		"/H/Wildfire/iap/db/migrate/20131009035627_create_my_topics.rb",
+		"/H/Wildfire/iap/db/migrate/20131015023110_create_liked_posts.rb",
+		"/H/Wildfire/iap/app/assets/templates/product.html",
+		"/H/Wildfire/iap/app/assets/templates/redemption-admin.html",
+		"/H/Wildfire/iap/app/assets/templates/manager.html",
+		"/H/Wildfire/iap/app/assets/templates/settings-modal.html",
+		"/H/Wildfire/iap/lib/uuid_helper.rb",
+		"/H/Wildfire/iap/app/assets/templates/signup-modal.html",
+		"/H/Wildfire/iap/db/migrate/20131014034302_rename_type_to_media_type.rb",
+		"/H/Wildfire/iap/app/controllers/banners_controller.rb",
+		"/H/Wildfire/iap/db/migrate/20131014032944_rename_product_media_column_name.rb",
+		"/H/Wildfire/iap/app/models/product_media.rb",
+		"/G/Wildfire/重要的东西.txt",
+		"/H/Wildfire/iap/app/models/tqq2_adaptor.rb",
+		"/H/Wildfire/iap/app/controllers/authorizations_controller.rb",
+		"/H/Wildfire/iap/app/assets/javascripts/application.js",
+		"/H/Wildfire/iap/app/assets/stylesheets/index.css",
+		"/H/Wildfire/iap/app/assets/stylesheets/ie-css3.htc",
+		"/H/Wildfire/iap/app/assets/templates/login-modal.html",
+		"/H/Wildfire/iap/app/controllers/application_controller.rb",
+		"/H/Wildfire/iap/app/models/redemption.rb",
+		"/H/Wildfire/iap/app/controllers/managers_controller.rb",
+		"/H/Wildfire/iap/app/assets/stylesheets/topic-list.css",
+		"/D/编程开发/MySql/EMS2010version破解版/2010version可汉化/说明.txt",
+		"/H/Wildfire/iap/app/assets/stylesheets/font-awesome.min.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/H/Wildfire/iap/db/migrate/20130413044552_create_reposts.rb",
+		"/H/Wildfire/NLP/config/database.yml",
+		"/C/Users/Administrator/Desktop/daliy.sql",
+		"/H/Wildfire/NLP/app/views/tags/new.html.erb",
+		"/H/Wildfire/NLP/app/views/tags/edit.html.erb",
+		"/H/Wildfire/NLP/app/views/tags/_form.html.erb",
+		"/H/Wildfire/NLP/app/views/tags/show.html.erb",
+		"/H/Wildfire/NLP/app/views/posts/import_data.html.erb",
+		"/H/Wildfire/NLP/lib/tasks/save_predict.rb",
+		"/H/Wildfire/NLP/app/controllers/posts_controller.rb",
+		"/H/Wildfire/NLP/app/controllers/calc_controller.rb",
+		"/H/Wildfire/NLP/app/views/tags/index.html.erb",
+		"/H/Wildfire/NLP/config/routes.rb",
+		"/C/Users/Administrator/AppData/Local/Temp/scp00937/etc/apache2/apache2.conf",
+		"/C/Users/Administrator/AppData/Local/Temp/scp01169/etc/apache2/apache2.conf",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/H/Wildfire/NLP/app/views/posts/index.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.css",
+			".css",
+			"",
+			"*.haml",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#banner",
+			"descritption",
+			"description",
+			"g1_res",
+			"g0_g1_uri_this",
+			"g0_g1_res",
+			"analyze",
+			"temp_doc",
+			"border:",
+			"border",
+			".css",
+			"selected_sites",
+			"\"\",",
+			"'============================'",
+			"stringify",
+			"'=========================================='",
+			"upload",
+			"  \n",
+			"();\n",
+			"  $scope.uploadPic = function() {\n    $(\"#mission-upload\").button(\"loading\");\n    var params = {\n      authenticity_token: $('meta[name=\"csrf-token\"]').attr('content')\n    }\n    dropzone.options.params = params;\n    dropzone.processQueue();\n  }",
+			"missiona",
+			"banner",
+			"pointsl",
+			"get_user_info",
+			"redeem_info",
+			"col-lg-3",
+			"tqqActive",
+			"weiboActive",
+			"update",
+			"share",
+			"user",
+			"postalcode",
+			"col-lg-10",
+			"col-lg-2",
+			"checkWeibo",
+			"confirmre",
+			"col-lg-9",
+			"col-lg-3",
+			"saveLogisticActive",
+			"weiboactiv",
+			"weiboActive",
+			"socpe",
+			"sync-weibo",
+			"params",
+			"过期",
+			"action: \"get_posts\"",
+			"get_p",
+			"pp",
+			"puts",
+			"pp",
+			"def Devise",
+			" Devise",
+			"Devise",
+			"Far",
+			"api_key",
+			"api",
+			"@token",
+			"topics",
+			"ids",
+			"cm",
+			"topic_id",
+			"get_followers",
+			"reply",
+			"$memcached_client",
+			"end",
+			"($route.current",
+			"showreply",
+			"puts",
+			"reply_response",
+			"commentan",
+			"str62keys",
+			"weibo_id",
+			"getSinglePage",
+			"url2mid",
+			"mid2url",
+			"getSinglePage",
+			"focusOnTextarea",
+			"get_posts",
+			"心头爱",
+			"response",
+			"@interface",
+			"<<<",
+			"head",
+			"confirm",
+			"      puts '=========================================='\nget_user_profile",
+			"puts ",
+			"puts",
+			"=====",
+			"get_replied_threads",
+			"show_recent_replied_topics",
+			"replied_topic_id",
+			"RepliedTopic.",
+			"Replied",
+			"Comment.find",
+			"comment.find",
+			"comment_and",
+			"commentan",
+			"Comment.find",
+			"Like.find",
+			"6c3fbe22-30c7-11e3-b88d-00163e0e3475",
+			"\"\n",
+			"loadth",
+			"check_is_liked",
+			"like",
+			"\"account\"",
+			"like",
+			"self.",
+			"toJson",
+			"get_products",
+			"console.log",
+			"$scope.index_image",
+			"modal_image",
+			"show_index_media",
+			"show_add_media",
+			"saveMedia",
+			"sort_by",
+			"sort",
+			"get_products",
+			"save",
+			"confir",
+			"confirr",
+			"confir",
+			"confirm",
+			"confirm_r",
+			"confirmr",
+			"index ",
+			"load",
+			"$scope.new_media = null;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/products_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1839,
+								1839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/product.rb",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test/models/product_test.rb",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 920.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/store_controller.rb",
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/store/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/stylesheets/depot.css",
+					"settings":
+					{
+						"buffer_size": 2208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2206,
+								2206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2340.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"depot.c",
+				"app/assets/stylesheets/depot.css"
+			],
+			[
+				"storecon",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"prodt",
+				"test/models/product_test.rb"
+			],
+			[
+				"prducte",
+				"test/controllers/products_controller_test.rb"
+			],
+			[
+				"produ",
+				"app/models/product.rb"
+			],
+			[
+				"2",
+				"db/migrate/20131225160620_create_products.rb"
+			],
+			[
+				"procon",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"index",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"wei",
+				"app/models/sns/weibo_adaptor.rb"
+			],
+			[
+				"reac",
+				"app/models/reach.rb"
+			],
+			[
+				"appl",
+				"config/application.yml"
+			],
+			[
+				"ana",
+				"app/models/analyzer.rb"
+			],
+			[
+				"chan",
+				"app/models/channel.rb"
+			],
+			[
+				"link",
+				"app/models/link.rb"
+			],
+			[
+				"rul",
+				"app/models/ruletester.rb"
+			],
+			[
+				"taobao.",
+				"app/models/analyzers/bbstaobao.rb"
+			],
+			[
+				"taobao",
+				"app/models/analyzers/taobao_search.rb"
+			],
+			[
+				"channel",
+				"app/models/channel.rb"
+			],
+			[
+				"watchescon",
+				"app/controllers/watches_controller.rb"
+			],
+			[
+				"lk",
+				"lib/LK"
+			],
+			[
+				"channelcont",
+				"app/controllers/channels_controller.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"goo",
+				"app/views/say/goodbye.html.erb"
+			],
+			[
+				"sayc",
+				"app/controllers/say_controller.rb"
+			],
+			[
+				"hello",
+				"app/views/say/hello.html.erb"
+			],
+			[
+				"applicatin",
+				"config/application.rb"
+			],
+			[
+				"missioncon",
+				"app/controllers/missions_controller.rb"
+			],
+			[
+				"product",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"missiona",
+				"app/assets/templates/mission-admin.html"
+			],
+			[
+				"pointlis",
+				"app/assets/templates/points-list.html"
+			],
+			[
+				"redeem",
+				"app/assets/templates/redeem-modal.html"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"exter",
+				"app/assets/templates/external-account.html"
+			],
+			[
+				"weibo",
+				"app/models/weibo_adaptor.rb"
+			],
+			[
+				"pub",
+				"app/models/published_post.rb"
+			],
+			[
+				"inter",
+				"app/controllers/interface_controller.rb"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"contro",
+				"app/assets/javascripts/controller.js"
+			],
+			[
+				"rede",
+				"app/assets/templates/redeem-modal.html"
+			],
+			[
+				"createuser",
+				"db/migrate/20130815081013_create_user_infos.rb"
+			],
+			[
+				"createrede",
+				"db/migrate/20130815045155_create_redemptions.rb"
+			],
+			[
+				"convercon",
+				"app/controllers/conversation_controller.rb"
+			],
+			[
+				"invitationc",
+				"app/controllers/invitations_controller.rb"
+			],
+			[
+				"appli",
+				"config/application.yml"
+			],
+			[
+				"comment",
+				"app/models/comment.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"interface",
+				"app/models/interface.rb"
+			],
+			[
+				"conver",
+				"app/models/conversation.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"dalli",
+				"db/migrate/20130104015549_add_large_profile_image_url_to_authorization.rb"
+			],
+			[
+				"me",
+				"config/initializers/memcache.rb"
+			],
+			[
+				"interfac",
+				"app/models/interface.rb"
+			],
+			[
+				"sns.rb",
+				"lib/sns_utility.rb"
+			],
+			[
+				"banner",
+				"app/assets/templates/banner-admin.html"
+			],
+			[
+				"auth",
+				"app/models/authorization.rb"
+			],
+			[
+				"conv",
+				"app/controllers/conversation_controller.rb"
+			],
+			[
+				"abou",
+				"app/assets/templates/about.html"
+			],
+			[
+				"productre",
+				"app/models/products_reviews.rb"
+			],
+			[
+				"pro",
+				"app/models/product.rb"
+			],
+			[
+				"about",
+				"app/assets/templates/about.html"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"lik",
+				"app/models/like.rb"
+			],
+			[
+				"topiclis",
+				"app/assets/templates/topic-list.html"
+			],
+			[
+				"sign",
+				"app/assets/templates/signup-modal.html"
+			],
+			[
+				"tqq",
+				"app/models/tqq2_adaptor.rb"
+			],
+			[
+				"pr",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"application.y",
+				"config/application.yml"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"userpan",
+				"app/assets/templates/user-panel.html"
+			],
+			[
+				"inde",
+				"app/views/index/index.html.erb"
+			],
+			[
+				"aut",
+				"app/controllers/authorizations_controller.rb"
+			],
+			[
+				"intercon",
+				"app/controllers/interface_controller.rb"
+			],
+			[
+				"applica",
+				"config/application.yml"
+			],
+			[
+				"interfacecon",
+				"app/controllers/interface_controller.rb"
+			],
+			[
+				".css",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"r",
+				"config/routes.rb"
+			],
+			[
+				"iwom.",
+				"app/views/wom/iwom.html.erb"
+			],
+			[
+				"root",
+				"controllers/root.rb"
+			],
+			[
+				"alerr",
+				"models/alert_relation.rb"
+			],
+			[
+				"alertre",
+				"models/alert_relation.rb"
+			],
+			[
+				"sitemap",
+				"models/site_mapping.rb"
+			],
+			[
+				"site",
+				"models/site_mapping.rb"
+			],
+			[
+				"boot",
+				"boot.rb"
+			],
+			[
+				"app.rb",
+				"models/site_mapping.rb"
+			],
+			[
+				"mycon",
+				"application/controllers/MyController.php"
+			],
+			[
+				"ini",
+				"library/Zend/Translate/Adapter/Ini.php"
+			],
+			[
+				"config",
+				"application/config.ini"
+			],
+			[
+				"config.",
+				"public/js/fckeditor/editor/filemanager/connectors/asp/config.asp"
+			],
+			[
+				"app.",
+				"app/assets/javascripts/app.js"
+			],
+			[
+				"addch",
+				"app/views/channels/add_channel.html.erb"
+			],
+			[
+				"rule",
+				"app/models/ruletester.rb"
+			],
+			[
+				"wa",
+				"app/controllers/watches_controller.rb"
+			],
+			[
+				"ac",
+				"lib/ac.rb"
+			],
+			[
+				"chann",
+				"app/controllers/channels_controller.rb"
+			],
+			[
+				"mech",
+				"config/initializers/memcache.rb"
+			],
+			[
+				"sitecon",
+				"app/controllers/sites_controller.rb"
+			],
+			[
+				"channelcon",
+				"app/controllers/channels_controller.rb"
+			],
+			[
+				"watch",
+				"app/models/watch.rb"
+			],
+			[
+				"sitescon",
+				"app/controllers/sites_controller.rb"
+			],
+			[
+				"ifu",
+				"lib/if_utility.rb"
+			],
+			[
+				"sites",
+				"app/controllers/sites_controller.rb"
+			],
+			[
+				"mop",
+				"app/models/analyzers/mop.rb"
+			],
+			[
+				"analy",
+				"app/models/analyzer.rb"
+			],
+			[
+				"base",
+				"public/stylesheets/web-app-theme/base.css"
+			],
+			[
+				"wat",
+				"app/controllers/watches_controller.rb"
+			],
+			[
+				"watec",
+				"app/controllers/watches_controller.rb"
+			],
+			[
+				"channe",
+				"app/controllers/channels_controller.rb"
+			],
+			[
+				"mlt",
+				"lib/tasks/mltraining.rake"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ap",
+				"config/application.yml"
+			],
+			[
+				"ac.rb",
+				"lib/ac.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"site_tes",
+				"test/site_test.rb"
+			],
+			[
+				"out",
+				"lib/oauth_utility.rb"
+			],
+			[
+				"base.",
+				"public/stylesheets/web-app-theme/base.css"
+			],
+			[
+				"rulet",
+				"app/models/ruletester.rb"
+			],
+			[
+				"comman",
+				"lib/tasks/commands.txt"
+			],
+			[
+				"index.htm",
+				"app/views/channels/index.html.haml"
+			],
+			[
+				"detect",
+				"app/models/detect.rb"
+			],
+			[
+				"detec",
+				"app/models/detect.rb"
+			],
+			[
+				"moni",
+				"app/views/detects/monitor.html.haml"
+			],
+			[
+				"addc",
+				"app/views/channels/add_channel.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/H/Wildfire/iap/iap.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
