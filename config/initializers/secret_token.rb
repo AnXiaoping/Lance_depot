@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Depot::Application.config.secret_key_base = '4ed5baa65e0a2fabbd5b95d08210571cb6619358c7c12c20ec0541e512ca7683bc1b46533132bffd486c37d016a6c85afa5a89f5340abdc4bb5f3212bf80170e'
+LanceDepot::Application.config.secret_key_base = 'dc78600ea00fb9769a18482d3ff75625094935ca3dcb9c521cb3dfbfe4eae12a3ee6915a2c2ee635ecaec6d755acc749155e144e96cd8556aae35e7ff0dd5d9d'
