@@ -3,6 +3,8 @@
 <head>
   <title>Lance's test</title>
   <%= stylesheet_link_tag :depot %>
+  <%= stylesheet_link_tag :bootstrap%>
+  <%= javascript_include_tag :bootstrap%>
   <%= csrf_meta_tags %>
 </head>
 <body id="store">
@@ -12,9 +14,13 @@
   </div>
   <div id="columns">
     <div id="side">
+      <div id="cart">
+        <%= render @cart%>
+      </div>
       <a href="/">Home</a><br>
       <a href="/line_items">Line Items</a><br>
-      <a href="localhost:3000">Home</a><br>
+      <a href="/products">Products</a><br>
+      <a href="/carts">Carts</a><br>
     </div>
   </div>
   <div id="main">
